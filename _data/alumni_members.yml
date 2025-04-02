@@ -1,0 +1,83 @@
+- name: Zixuan Guo
+  photo: XuningHu.jpg
+  duration: 03/2021 - 12/2024, now xxx at xxx
+  info: Impact of Observers on Player Performance and Experience in VR Games
+  email: b
+  number_educ: 0
+  education1: Leidse instrumentmakers School
+  education2:
+
+- name: Tingjie Wan
+  photo: irene.jpg
+  duration: 03/2021 - 12/2024, now xxx at xxx
+  info: Improving Efficiency, Usability, and Security of Text Entry in Virtual Reality Head-Mounted Displays
+  email: b
+  number_educ: 0
+  education1: Master Padova University
+
+- name: Jialin Wang
+  photo: Doohee2.jpg
+  info: Understanding and Enhancing Visual Perception in Virtual Reality
+  duration: 12/2021 - 12/2024, now postdoc at HKUST(GZ)
+  email: cho@physics.leidenuniv.nl
+  number_educ: 0
+  education1: B.S. Yonsei University, Korea
+
+- name: Rongkai Shi
+  photo: Maarten.png
+  info: Improving Multi-Object Selection and Manipulation in Extended Reality Head-Mounted Displays
+  email: M.Leeuwenhoek@tudelft.nl
+  duration: 06/2020 - 06/2024
+  number_educ: 0
+  education1: Master Leiden University with Milan Allan
+
+- name: Yiming luo
+  photo: Freek.jpg
+  info: Human-Robot Interaction via Virtual and Augmented Reality Interfaces
+  email: Groenewoud@physics.leidenuniv.nl
+  duration: 09/2019 - 06/2023
+  number_educ: 0
+  education1: Leidse Instrumentmaker School
+
+- name: Mengqi Jiang
+  photo: Damianos.jpg
+  info: Body-centred Interactive Textiles for Emotion Regulation
+  duration: 10/2018 - 07/2022
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 0
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+
+- name: Lei Chen
+  photo: website_pic_willem.jpg
+  info: Spatial/Workspace Co-Presence Awareness and Proxemics of Users in Collaborative Interaction
+  duration: 07/2018 - 11/2022
+  email: WTromp@physics.leidenuniv.nl
+  number_educ: 2
+  education1: Co-supervision
+  education2: With Prof. Yong Yue
+
+
+- name: Diego Monteiro
+  photo: Kaveh.png
+  info: "Enjoyment in VR games: Factors, Challenges, and Simulator Sickness Mitigation Techniques"
+  duration: 01/2018 - 03/2021, now Senior Lecturer (Associate Professor) at ESIEA, France
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 0
+  education1: Postdoc in the Aarts Lab, Leiden University
+
+
+- name: Wenge Xu
+  photo: Koen.jpg
+  info: Motion-based Interaction for Head-Mounted Displays
+  duration: 01/2018 - 03/2021, now Lecturer (Assistant Professor) at Birmingham City University, UK
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 0
+  education1: Postdoc in the Otte Lab, Leiden University
+
+- name: Vijayakumar Nanjappan
+  photo: Jinwon.jpg
+  info: Clothing-Based Interfaces for Interacting with Off-Screen Content in Mobile Devices
+  duration: 06/2015 - 07/2020, now Lecturer (Assistant Professor) at University College Cork, Ireland
+  email: jwlee0421@postech.ac.kr
+  number_educ: 0
+  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)

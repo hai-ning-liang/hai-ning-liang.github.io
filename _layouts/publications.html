@@ -1,0 +1,206 @@
+---
+layout: default
+---
+<style>
+  .pub-link {
+    display: inline-block;
+    margin-right: 0.625rem;
+    padding: 0.8em 0.8em;
+    background-color: white;
+    color: #484844;
+    border: 0.125rem solid #aaa;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: "Helvetica", "Arial", sans-serif;
+    text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s;
+  }
+
+  .pub-link:hover {
+    background-color: #d3d3d3;
+    color: #484844;
+    border-color: #aaa;
+    text-decoration: none;
+  }
+
+  .pub-link:active {
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .pub-link:visited,
+  .pub-link:focus {
+    color: #484844;
+    text-decoration: none;
+    outline: none;
+  }
+
+  .pub-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #484844;
+    text-decoration: none;
+  }
+
+  .year-button {
+    display: inline-block;
+    margin-right: 0.625rem;
+    margin-bottom: 1em;
+    padding: 0.8em 1em;
+    background-color: white;
+    color: #484844;
+    border: 0.125rem solid #aaa;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: "Helvetica", "Arial", sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s;
+  }
+
+  .year-button:hover {
+    background-color: #d3d3d3;
+    color: #484844;
+    border-color: #aaa;
+    text-decoration: none;
+  }
+
+  .year-button:active {
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .year-button:focus {
+    outline: none;
+  }
+
+  /* 新增响应式样式 */
+  .publication-item.hide-image .thumbnail-container {
+    display: none;
+  }
+  .publication-item.hide-image .content-container {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  /* 黑色上划线 */
+  .publication-item {
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    border-top: 1px solid  #ddd;; /* 设置黑色的上划线 */
+  }
+</style>
+
+
+<div class="publications-section" id="publications">
+  <div class="container">
+    <h2 class="section-title">Publications</h2>
+
+    <!-- 年份按钮 -->
+    <div class="year-buttons">
+      <button class="year-button" onclick="filterPublications('2025')">2025</button>
+      <button class="year-button" onclick="filterPublications('2024')">2024</button>
+      <button class="year-button" onclick="filterPublications('Other')">Other publications</button>
+    </div>
+
+    <div class="publications-list">
+      {% if site.data.pubInfo %}
+        <div id="all-publications">
+          {% for pub in site.data.pubInfo %}
+            <div class="publication-item" 
+                 data-year="{{ pub.year | default: 'Other' }}" 
+                 data-has-image="{% if pub.picture %}true{% else %}false{% endif %}">
+              <div class="thumbnail-container" style="flex: 0 0 120px; margin-right: 20px;">
+                {% if pub.picture %}
+                  <img src="{{ pub.picture }}" alt="thumbnail" style="width: 200px; height: 100px;" />
+                {% endif %}
+              </div>
+
+              <div class="content-container" style="flex: 1;">
+                <p style="margin-bottom: 0.5em;">
+                  <span class="pub-title">{{ pub.title }}</span>
+                  {% if pub.award %}
+                    <span style="color: #ff6600; font-weight: bold;">({{ pub.award }})</span>
+                  {% endif %}
+                </p>
+
+                <p class="pub-authors" style="margin-bottom: 0.3em;">
+                  {{ pub.authors | replace: 'Hai-Ning Liang', '<strong>Hai-Ning Liang</strong>' }}
+                </p>
+
+                <p class="pub-venue" style="color: #777; margin-bottom: 0.5em;">
+                  {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}
+                </p>
+
+                <div class="pub-links">
+                  {% if pub.doi %}
+                    <a href="https://doi.org/{{ pub.doi }}" class="pub-link" target="_blank">DOI</a>
+                  {% endif %}
+                  {% if pub.bibtex %}
+                    <a href="javascript:void(0);" class="pub-link" onclick="alert(`{{ pub.bibtex | escape }}`)">BibTeX</a>
+                  {% endif %}
+                  {% if pub.video %}
+                    <a href="{{ pub.video }}" class="pub-link" target="_blank">Video</a>
+                  {% endif %}
+                  {% if pub.pdf %}
+                    <a href="{{ pub.pdf }}" class="pub-link" target="_blank">Paper</a>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      {% else %}
+        <p>No publications available.</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+
+<script>
+  // 初始化分类逻辑
+  function filterPublications(selectedYear) {
+    const container = document.getElementById('all-publications');
+    const allItems = Array.from(document.querySelectorAll('.publication-item'));
+    
+    // 按年份降序排序
+    allItems.sort((a, b) => {
+      const yearA = a.dataset.year === 'Other' ? 0 : parseInt(a.dataset.year);
+      const yearB = b.dataset.year === 'Other' ? 0 : parseInt(b.dataset.year);
+      return yearB - yearA;
+    });
+    
+    // 重新插入DOM保持排序
+    allItems.forEach(item => container.appendChild(item));
+    
+    // 筛选显示
+    allItems.forEach(item => {
+      const pubYear = item.dataset.year;
+      const isOther = selectedYear === 'Other';
+      
+      // 判断显示条件（已改为2024年以下）
+      const shouldShow = isOther ? 
+        (parseInt(pubYear) < 2024 || pubYear === 'Other') : 
+        (pubYear === selectedYear);
+
+      item.style.display = shouldShow ? 'flex' : 'none';
+      item.classList.toggle('hide-image', isOther);
+    });
+  }
+
+  // 默认显示2025年文献
+  document.addEventListener('DOMContentLoaded', () => {
+    filterPublications('2025');
+    document.querySelector('.year-button').classList.add('active');
+  });
+
+  // 按钮激活状态
+  document.querySelectorAll('.year-button').forEach(button => {
+    button.addEventListener('click', function() {
+      document.querySelectorAll('.year-button').forEach(btn => btn.classList.remove('active'));
+      this.classList.add('active');
+    });
+  });
+</script>
