@@ -957,17 +957,6 @@
     "video": null
   },
   {
-    "title": "From reader to experiencer: Design and evaluation of a VR data story for promoting the situation awareness of public health threats",
-    "authors": "Qian Zhu, Linping Yuan, Zian Xu, Leni Yang, Meng Xia, Zhuo Wang, Hai-Ning Liang and Xiaojuan Ma",
-    "venue": "International Journal of Human-Computer Studies",
-    "year": 2024,
-    "pdf": null,
-    "doi": "10.1016/j.ijhcs.2023.103137",
-    "bibtex": " @article{Zhu_2024, title={From reader to experiencer: Design and evaluation of a VR data story for promoting the situation awareness of public health threats}, volume={181}, ISSN={1071-5819}, url={http://dx.doi.org/10.1016/j.ijhcs.2023.103137}, DOI={10.1016/j.ijhcs.2023.103137}, journal={International Journal of Human-Computer Studies}, publisher={Elsevier BV}, author={Zhu, Qian and Yuan, Linping and Xu, Zian and Yang, Leni and Xia, Meng and Wang, Zhuo and Liang, Hai-Ning and Ma, Xiaojuan}, year={2024}, month=jan, pages={103137} }\n",
-    "picture": null,
-    "video": null
-  },
-  {
     "title": "The use of video games and virtual reality for the assessment of anxiety and depression: A Scoping Review",
     "authors": "Vibhav Chitale, Nilufar Baghaei, Daniel Playne, Hai-Ning Liang, Yinshu Zhao, Aysu Erensoy and Yvette Ahmad",
     "venue": "Games for Health Journal",
@@ -1041,7 +1030,7 @@
     "pdf": null,
     "doi": "10.1016/j.jobe.2024.108611",
     "bibtex": " @article{Taherysayah_2024, title={Virtual reality and electroencephalography in architectural design: A systematic review of empirical studies}, volume={85}, ISSN={2352-7102}, url={http://dx.doi.org/10.1016/j.jobe.2024.108611}, DOI={10.1016/j.jobe.2024.108611}, journal={Journal of Building Engineering}, publisher={Elsevier BV}, author={Taherysayah, Fatemeh and Malathouni, Christina and Liang, Hai-Ning and Westermann, Claudia}, year={2024}, month=may, pages={108611} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Virtual reality and electroencephalography in architectural .png",
     "video": null
   },
   {
@@ -1349,7 +1338,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3349428",
     "bibtex": " @article{Wan_2024, title={Design and Evaluation of Controller-Based Raycasting Methods for Efficient Alphanumeric and Special Character Entry in Virtual Reality}, volume={30}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3349428}, DOI={10.1109/tvcg.2024.3349428}, number={9}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wan, Tingjie and Wei, Yushi and Shi, Rongkai and Shen, Junxiao and Kristensson, Per Ola and Atkinson, Katie and Liang, Hai-Ning}, year={2024}, month=sep, pages={6493–6506} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Design and Evaluation of Controller-Based.png",
     "video": null
   },
   {
@@ -1569,7 +1558,7 @@
     "pdf": null,
     "doi": "10.1145/3613904.3642740",
     "bibtex": " @inproceedings{He_2024, series={CHI ’24}, title={Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality}, url={http://dx.doi.org/10.1145/3613904.3642740}, DOI={10.1145/3613904.3642740}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={He, Shuqi and Yao, Haonan and Jiang, Luyan and Li, Kaiwen and Xiang, Nan and Li, Yue and Liang, Hai-Ning and Yu, Lingyun}, year={2024}, month=may, pages={1–21}, collection={CHI ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Data Cubes in HandA Design Space of Tangible Cubes for.png",
     "video": null
   },
   {
@@ -1580,7 +1569,7 @@
     "pdf": null,
     "doi": "10.1145/3613904.3642876",
     "bibtex": " @inproceedings{Wen_2024, series={CHI ’24}, title={AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistance}, url={http://dx.doi.org/10.1145/3613904.3642876}, DOI={10.1145/3613904.3642876}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Wen, Shaoyue and Ping, Songming and Wang, Jialin and Liang, Hai-Ning and Xu, Xuhai and Yan, Yukang}, year={2024}, month=may, pages={1–18}, collection={CHI ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Adaptivevoice Cognitively adaptive voice interface for driving assistance.png",
     "video": null
   },
   {
@@ -1591,7 +1580,7 @@
     "pdf": null,
     "doi": "10.1007/s12650-024-00957-3",
     "bibtex": " @article{He_2024, title={Visual harmony: text-visual interplay in circular infographics}, volume={27}, ISSN={1875-8975}, url={http://dx.doi.org/10.1007/s12650-024-00957-3}, DOI={10.1007/s12650-024-00957-3}, number={2}, journal={Journal of Visualization}, publisher={Springer Science and Business Media LLC}, author={He, Shuqi and Chen, Yuqing and Xia, Yuxin and Li, Yichun and Liang, Hai-Ning and Yu, Lingyun}, year={2024}, month=feb, pages={255–271} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Visual Harmony.png",
     "video": null
   },
   {
@@ -1602,7 +1591,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3372114",
     "bibtex": " @article{Guo_2024, title={Breaking the Isolation: Exploring the Impact of Passthrough in Shared Spaces on Player Performance and Experience in VR Exergames}, volume={30}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3372114}, DOI={10.1109/tvcg.2024.3372114}, number={5}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Guo, Zixuan and Wang, Hongyu and Deng, Hanxiao and Xu, Wenge and Baghaei, Nilufar and Lo, Cheng-Hung and Liang, Hai-Ning}, year={2024}, month=may, pages={2580–2590} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Breaking the Isolation Exploring the Impact.png",
     "video": null
   },
   {
@@ -1723,7 +1712,7 @@
     "pdf": null,
     "doi": "10.1007/s10055-023-00902-z",
     "bibtex": " @article{Wan_2024, title={Hands-free multi-type character text entry in virtual reality}, volume={28}, ISSN={1434-9957}, url={http://dx.doi.org/10.1007/s10055-023-00902-z}, DOI={10.1007/s10055-023-00902-z}, number={1}, journal={Virtual Reality}, publisher={Springer Science and Business Media LLC}, author={Wan, Tingjie and Shi, Rongkai and Xu, Wenge and Li, Yue and Atkinson, Katie and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=jan }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Hands-free multi-type character text entry in virtual reality.png",
     "video": null
   },
   {
@@ -1998,7 +1987,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3456368",
     "bibtex": " @article{Zhao_2025, title={SpatialTouch: Exploring Spatial Data Visualizations in Cross-Reality}, volume={31}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3456368}, DOI={10.1109/tvcg.2024.3456368}, number={1}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhao, Lixiang and Isenberg, Tobias and Xie, Fuqi and Liang, Hai-Ning and Yu, Lingyun}, year={2025}, month=jan, pages={897–907} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\SpatialTouchExploring Spatial Data Visualizations in Cross-reality.png",
     "video": null
   },
   {
@@ -2009,7 +1998,7 @@
     "pdf": null,
     "doi": "10.1007/s00779-024-01793-w",
     "bibtex": " @article{Jiang_2024, title={E-textiles for emotion interaction: a scoping review of trends and opportunities}, volume={28}, ISSN={1617-4917}, url={http://dx.doi.org/10.1007/s00779-024-01793-w}, DOI={10.1007/s00779-024-01793-w}, number={3–4}, journal={Personal and Ubiquitous Computing}, publisher={Springer Science and Business Media LLC}, author={Jiang, Mengqi and Wang, Yimin and Nanjappan, Vijayakumar and Bai, Ziqian and Liang, Hai-Ning}, year={2024}, month=apr, pages={549–577} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\E-textiles for emotion interactiona scoping review of trends and opportunities.png",
     "video": null
   },
   {
@@ -2020,7 +2009,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3372127",
     "bibtex": " @article{Wang_2024, title={Omnidirectional Virtual Visual Acuity: A User-Centric Visual Clarity Metric for Virtual Reality Head-Mounted Displays and Environments}, volume={30}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3372127}, DOI={10.1109/tvcg.2024.3372127}, number={5}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wang, Jialin and Shi, Rongkai and Li, Xiaodong and Wei, Yushi and Liang, Hai-Ning}, year={2024}, month=may, pages={2033–2043} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\OmnidirectionalVirtualVisualAcuityAUsercentricVisualClarity.png",
     "video": null
   },
   {
@@ -2031,7 +2020,7 @@
     "pdf": null,
     "doi": "10.1016/j.ijhcs.2023.103146",
     "bibtex": " @article{Kao_2024, title={Exploring how gender-anonymous voice avatars influence women’s performance in online computing group work}, volume={181}, ISSN={1071-5819}, url={http://dx.doi.org/10.1016/j.ijhcs.2023.103146}, DOI={10.1016/j.ijhcs.2023.103146}, journal={International Journal of Human-Computer Studies}, publisher={Elsevier BV}, author={Kao, Dominic and Mubarrat, Syed T. and Joshi, Amogh and Pandita, Swati and Mousas, Christos and Liang, Hai-Ning and Ratan, Rabindra}, year={2024}, month=jan, pages={103146} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploring howgender-anonymousvoiceavatarsinfluencewomen’s.png",
     "video": null
   },
   {
@@ -2152,7 +2141,7 @@
     "pdf": null,
     "doi": "10.1080/10447318.2023.2290382",
     "bibtex": " @article{Wang_2023, title={Effect of Reaching Movement Modulation on Experience of Control in Virtual Reality}, volume={40}, ISSN={1532-7590}, url={http://dx.doi.org/10.1080/10447318.2023.2290382}, DOI={10.1080/10447318.2023.2290382}, number={21}, journal={International Journal of Human–Computer Interaction}, publisher={Informa UK Limited}, author={Wang, Liu and Huang, Mengjie and Yang, Rui and Qin, Chengxuan and Han, Ji and Liang, Hai-Ning}, year={2023}, month=dec, pages={6740–6757} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Effect of Reaching Movement Modulation on Experience of Control in Virtual Reality.png",
     "video": null
   },
   {
@@ -2163,7 +2152,7 @@
     "pdf": null,
     "doi": "10.1109/ismar62088.2024.00038",
     "bibtex": " @inproceedings{Guo_2024, title={Enhancement of Co-located Shared VR Experiences: Representing Non-HMD Observers on Both HMD and 2D Screens}, url={http://dx.doi.org/10.1109/ismar62088.2024.00038}, DOI={10.1109/ismar62088.2024.00038}, booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}, publisher={IEEE}, author={Guo, Zixuan and Xu, Wenge and Wang, Hongyu and Wan, Tingjie and Baghaei, Nilufar and Lo, Cheng-Hung and Liang, Hai-Ning}, year={2024}, month=oct, pages={239–248} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Enhancement of Co-located Shared VR Experiences Representing.png",
     "video": null
   },
   {
@@ -2174,7 +2163,7 @@
     "pdf": null,
     "doi": "10.1109/ismar62088.2024.00037",
     "bibtex": " @inproceedings{Guo_2024, title={Exploring the Impact of Passthrough on VR Exergaming in Public Environments: A Field Study}, url={http://dx.doi.org/10.1109/ismar62088.2024.00037}, DOI={10.1109/ismar62088.2024.00037}, booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}, publisher={IEEE}, author={Guo, Zixuan and Deng, Hanxiao and Wang, Hongyu and Tan, Angel J. Y. and Xu, Wenge and Liang, Hai-Ning}, year={2024}, month=oct, pages={229–238} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploring the Impact of Passthrough on VR Exergaming in Public.png",
     "video": null
   },
   {
@@ -2185,7 +2174,7 @@
     "pdf": null,
     "doi": "10.1145/3698129",
     "bibtex": " @article{Shi_2024, title={Experimental Analysis of Freehand Multi-object Selection Techniques in Virtual Reality Head-Mounted Displays}, volume={8}, ISSN={2573-0142}, url={http://dx.doi.org/10.1145/3698129}, DOI={10.1145/3698129}, number={ISS}, journal={Proceedings of the ACM on Human-Computer Interaction}, publisher={Association for Computing Machinery (ACM)}, author={Shi, Rongkai and Wei, Yushi and Hu, Xuning and Liu, Yu and Yue, Yong and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=oct, pages={93–111} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Experimental Analysis of Freehand Multi-Object Selection Techniques in Virtual Reality Head-Mounted Displays.png",
     "video": null
   },
   {
@@ -2196,7 +2185,7 @@
     "pdf": null,
     "doi": "10.1080/10447318.2023.2217608",
     "bibtex": " @article{Wang_2023, title={Secure and Memorable Authentication Using Dynamic Combinations of 3D Objects in Virtual Reality}, volume={40}, ISSN={1532-7590}, url={http://dx.doi.org/10.1080/10447318.2023.2217608}, DOI={10.1080/10447318.2023.2217608}, number={17}, journal={International Journal of Human–Computer Interaction}, publisher={Informa UK Limited}, author={Wang, Jiawei and Gao, BoYu and Tu, Huawei and Liang, Hai-Ning and Liu, Zitao and Luo, Weiqi and Weng, Jian}, year={2023}, month=jun, pages={4608–4626} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Secure and Memorable Authentication Using.png",
     "video": null
   },
   {
@@ -2207,7 +2196,7 @@
     "pdf": null,
     "doi": "10.1145/3613904.3642757",
     "bibtex": " @inproceedings{Wan_2024, series={CHI ’24}, title={Exploration of Foot-based Text Entry Techniques for Virtual Reality Environments}, url={http://dx.doi.org/10.1145/3613904.3642757}, DOI={10.1145/3613904.3642757}, booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Wan, Tingjie and Zhang, Liangyuting and Yang, Hongyu and Irani, Pourang and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=may, pages={1–17}, collection={CHI ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploration of Foot-based Text Entry Techniques for Virtual.png",
     "video": null
   },
   {
@@ -2218,7 +2207,7 @@
     "pdf": null,
     "doi": "10.1109/vr58804.2024.00107",
     "bibtex": " @inproceedings{Wang_2024, title={MagicMap: Enhancing Indoor Navigation Experience in VR Museums}, url={http://dx.doi.org/10.1109/vr58804.2024.00107}, DOI={10.1109/vr58804.2024.00107}, booktitle={2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, publisher={IEEE}, author={Wang, Xueqi and Li, Yue and Liang, Hai-Ning}, year={2024}, month=mar, pages={881–891} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\MagicMapEnhancing Indoor Navigation Experience in VR Museums.png",
     "video": null
   },
   {
@@ -2229,7 +2218,7 @@
     "pdf": null,
     "doi": "10.5220/0012469000003660",
     "bibtex": " @inproceedings{Xu_2024, title={Exploring the Effect of Display Type on Co-Located Multiple Player Gameplay Performance, Immersion, Social Presence, and Behavior Patterns}, url={http://dx.doi.org/10.5220/0012469000003660}, DOI={10.5220/0012469000003660}, booktitle={Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications}, publisher={SCITEPRESS - Science and Technology Publications}, author={Xu, Wenge and Zheng, Ruichen and Monteiro, Diego and Nanjappan, Vijayakumar and Wang, Yihong and Liang, Hai-Ning}, year={2024}, pages={159–169} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploring the Effect of Display Type on Co-Located Multiple Player.png",
     "video": null
   },
   {
@@ -2383,7 +2372,7 @@
     "pdf": null,
     "doi": "10.1109/ismar62088.2024.00049",
     "bibtex": " @inproceedings{Wan_2024, title={Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality}, url={http://dx.doi.org/10.1109/ismar62088.2024.00049}, DOI={10.1109/ismar62088.2024.00049}, booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}, publisher={IEEE}, author={Wan, Tingjie and Zhang, Liangyuting and Xu, Yunxin and Atkinson, Katie and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=oct, pages={349–358} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Design and Evaluation of Controller-based Raycasting Methods for Secure.png",
     "video": null
   },
   {
@@ -2394,7 +2383,7 @@
     "pdf": null,
     "doi": "10.1145/3677386.3682084",
     "bibtex": " @inproceedings{Darbar_2024, series={SUI ’24}, title={OnArmQWERTY: An Empirical Evaluation of On-Arm Tap Typing for AR HMDs}, url={http://dx.doi.org/10.1145/3677386.3682084}, DOI={10.1145/3677386.3682084}, booktitle={ACM Symposium on Spatial User Interaction}, publisher={ACM}, author={Darbar, Rajkumar and Hu, Xuning and Yan, Xinan and Wei, Yushi and Liang, Hai-Ning and Xu, Wenge and Sarcar, Sayan}, year={2024}, month=oct, pages={1–12}, collection={SUI ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\OnArmQWERTYAnEmpiricalEvaluation of On-Arm Tap Typing.png",
     "video": null
   },
   {
@@ -2405,7 +2394,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3456173",
     "bibtex": " @article{Zhang_2024, title={TouchMark: Partial Tactile Feedback Design for Upper Limb Rehabilitation in Virtual Reality}, volume={30}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3456173}, DOI={10.1109/tvcg.2024.3456173}, number={11}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang, Jingjing and Huang, Mengjie and Chen, Yonglin and Liao, Kai-Lun and Shi, Jiajia and Liang, Hai-Ning and Yang, Rui}, year={2024}, month=nov, pages={7430–7440} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\TouchMark Partial Tactile Feedback Design for Upper Limb .png",
     "video": null
   },
   {
@@ -2416,7 +2405,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3456195",
     "bibtex": " @article{Wan_2024, title={Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments}, volume={30}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3456195}, DOI={10.1109/tvcg.2024.3456195}, number={11}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wan, Tingjie and Zhang, Liangyuting and Xu, Yunxin and Guo, Zixuan and Gao, Boyu and Liang, Hai-Ning}, year={2024}, month=nov, pages={7075–7085} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Analysis and Design of Efficient Authentication Techniques for.png",
     "video": null
   },
   {
@@ -2427,7 +2416,7 @@
     "pdf": null,
     "doi": "10.1007/s00779-024-01799-4",
     "bibtex": " @article{Li_2024, title={Feasibility and performance enhancement of collaborative control of unmanned ground vehicles via virtual reality}, volume={28}, ISSN={1617-4917}, url={http://dx.doi.org/10.1007/s00779-024-01799-4}, DOI={10.1007/s00779-024-01799-4}, number={3–4}, journal={Personal and Ubiquitous Computing}, publisher={Springer Science and Business Media LLC}, author={Li, Ziming and Luo, Yiming and Wang, Jialin and Pan, Yushan and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=may, pages={579–595} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Feasibility and performance enhancement of collaborative control of unmanned ground vehicles via virtual reality.png",
     "video": null
   },
   {
@@ -2438,7 +2427,7 @@
     "pdf": null,
     "doi": "10.1145/996350.996490",
     "bibtex": " @inproceedings{Hemminger_2004, series={JCDL04}, title={Visiting virtual reality museum exhibits}, url={http://dx.doi.org/10.1145/996350.996490}, DOI={10.1145/996350.996490}, booktitle={Proceedings of the 4th ACM/IEEE-CS joint conference on Digital libraries}, publisher={ACM}, author={Hemminger, Bradley M. and Bolus, Gerald and Schiff, Doug}, year={2004}, month=jun, pages={423–423}, collection={JCDL04} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\CovisitVMCross-Reality Virtual Museum Visiting.png",
     "video": null
   },
   {
@@ -2625,7 +2614,7 @@
     "pdf": null,
     "doi": "10.1109/ismar62088.2024.00065",
     "bibtex": " @inproceedings{Hu_2024, title={Exploring the Effects of Spatial Constraints and Curvature for 3D Piloting in Virtual Environments}, url={http://dx.doi.org/10.1109/ismar62088.2024.00065}, DOI={10.1109/ismar62088.2024.00065}, booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}, publisher={IEEE}, author={Hu, Xuning and Yan, Xinan and Wei, Yushi and Xu, Wenxuan and Li, Yue and Liu, Yue and Liang, Hai-Ning}, year={2024}, month=oct, pages={505–514} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploring the Effects of Spatial Constraints and Curvature for 3D Piloting.png",
     "video": null
   },
   {
@@ -2636,7 +2625,7 @@
     "pdf": null,
     "doi": "10.1145/3698136",
     "bibtex": " @article{Li_2024, title={Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality}, volume={8}, ISSN={2573-0142}, url={http://dx.doi.org/10.1145/3698136}, DOI={10.1145/3698136}, number={ISS}, journal={Proceedings of the ACM on Human-Computer Interaction}, publisher={Association for Computing Machinery (ACM)}, author={Li, Xiang and He, Wei and Jin, Shan and Gugenheimer, Jan and Hui, Pan and Liang, Hai-Ning and Kristensson, Per Ola}, year={2024}, month=oct, pages={236–254} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Investigating Creation Perspectives and Icon Placement.png",
     "video": null
   },
   {
@@ -2647,7 +2636,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3456166",
     "bibtex": " @article{Wei_2024, title={Exploring and Modeling Directional Effects on Steering Behavior in Virtual Reality}, volume={30}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3456166}, DOI={10.1109/tvcg.2024.3456166}, number={11}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wei, Yushi and Xu, Kemu and Li, Yue and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=nov, pages={7107–7117} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploring and Modeling Directional Effects on Steering Behavior in.png",
     "video": null
   },
   {
@@ -2658,7 +2647,7 @@
     "pdf": null,
     "doi": "10.1016/j.displa.2024.102781",
     "bibtex": " @article{Chen_2024, title={Exploration of exocentric perspective interfaces for virtual reality collaborative tasks}, volume={84}, ISSN={0141-9382}, url={http://dx.doi.org/10.1016/j.displa.2024.102781}, DOI={10.1016/j.displa.2024.102781}, journal={Displays}, publisher={Elsevier BV}, author={Chen, Lei and Long, Junkun and Shi, Rongkai and Li, Ziming and Yue, Yong and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=sep, pages={102781} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploration of exocentric perspective interfaces for virtual reality.png",
     "video": null
   },
   {
@@ -2669,7 +2658,7 @@
     "pdf": null,
     "doi": "10.1145/3643834.3661627",
     "bibtex": " @inproceedings{Zhang_2024, series={DIS ’24}, title={Stick-To-XR: Understanding Stick-Based User Interface Design for Extended Reality}, url={http://dx.doi.org/10.1145/3643834.3661627}, DOI={10.1145/3643834.3661627}, booktitle={Designing Interactive Systems Conference}, publisher={ACM}, author={Zhang, Yaying and Shi, Rongkai and Liang, Hai-Ning}, year={2024}, month=jul, pages={168–179}, collection={DIS ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Stick-To-XRUnderstanding Stick-Based User Interface Design for Extended Reality.png",
     "video": null
   },
   {
@@ -2680,7 +2669,7 @@
     "pdf": null,
     "doi": "10.1145/3651296",
     "bibtex": " @article{Chen_2024, title={Impact of Tutorial Modes with Different Time Flow Rates in Virtual Reality Games}, volume={7}, ISSN={2577-6193}, url={http://dx.doi.org/10.1145/3651296}, DOI={10.1145/3651296}, number={1}, journal={Proceedings of the ACM on Computer Graphics and Interactive Techniques}, publisher={Association for Computing Machinery (ACM)}, author={Chen, Boyuan and Yan, Xinan and Hu, Xuning and Kao, Dominic and Liang, Hai-Ning}, year={2024}, month=may, pages={1–19} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Impact of Tutorial Modes with Different Time Flow Rates in Virtual Reality Games.png",
     "video": null
   },
   {
@@ -2691,7 +2680,7 @@
     "pdf": null,
     "doi": "10.1109/vrw62533.2024.00307",
     "bibtex": " @inproceedings{Liang_2024, title={MemoryVR: Collecting and Sharing Memories in Personal Virtual Museums}, url={http://dx.doi.org/10.1109/vrw62533.2024.00307}, DOI={10.1109/vrw62533.2024.00307}, booktitle={2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}, publisher={IEEE}, author={Liang, Jiachen and Li, Yue and Wang, Xueqi and Zhao, Ziyue and Liang, Hai-Ning}, year={2024}, month=mar, pages={1021–1022} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\MemoryVRCollecting and Sharing Memories in Personal Virtual Museums - 副本.png",
     "video": null
   },
   {
@@ -2963,10 +2952,10 @@
     "authors": "Mingyuan Li, Duan Wang, Erick Purwanto, Thomas Selig, Qing Zhang and Hai-Ning Liang",
     "venue": "SoftwareX",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\VisualCodeMOOC A course platform for algorithms and data structures.pdf",
     "doi": "10.1016/j.softx.2025.102072",
     "bibtex": " @article{Li_2025, title={VisualCodeMOOC: A course platform for algorithms and data structures integrating a conversational agent for enhanced learning through dynamic visualizations}, volume={30}, ISSN={2352-7110}, url={http://dx.doi.org/10.1016/j.softx.2025.102072}, DOI={10.1016/j.softx.2025.102072}, journal={SoftwareX}, publisher={Elsevier BV}, author={Li, Mingyuan and Wang, Duan and Purwanto, Erick and Selig, Thomas and Zhang, Qing and Liang, Hai-Ning}, year={2025}, month=may, pages={102072} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\VisualCodeMOOC.png",
     "video": null
   },
   {
@@ -2974,10 +2963,10 @@
     "authors": "Fatemeh Taherysayah, Claudia Westermann and Hai-Ning Liang",
     "venue": "Intelligent Buildings International",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\Learning from neuroscience  integrating users in design processes using brain imaging tools and virtual reality.pdf",
     "doi": "10.1080/17508975.2025.2479095",
     "bibtex": " @article{Taherysayah_2025, title={Learning from neuroscience: integrating users in design processes using brain imaging tools and virtual reality}, ISSN={1756-6932}, url={http://dx.doi.org/10.1080/17508975.2025.2479095}, DOI={10.1080/17508975.2025.2479095}, journal={Intelligent Buildings International}, publisher={Informa UK Limited}, author={Taherysayah, Fatemeh and Westermann, Claudia and Liang, Hai-Ning}, year={2025}, month=mar, pages={1–15} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Learning from neuroscienceintegrating users in design processes.png",
     "video": null
   },
   {
@@ -2985,10 +2974,10 @@
     "authors": "Zixuan Guo, Yuekai Shi, Tiantian Ye, Tingjie Wan and Hai-Ning Liang",
     "venue": "2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\No_More_Head-Turning_Exploring_Passthrough_Techniques_for_Addressing_Rear_Interruptions_from_the_Front_in_VR.pdf",
     "doi": "10.1109/vr59515.2025.00048",
     "bibtex": " @inproceedings{Guo_2025, title={No More Head-Turning: Exploring Passthrough Techniques for Addressing Rear Interruptions from the Front in VR}, url={http://dx.doi.org/10.1109/vr59515.2025.00048}, DOI={10.1109/vr59515.2025.00048}, booktitle={2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, publisher={IEEE}, author={Guo, Zixuan and Shi, Yuekai and Ye, Tiantian and Wan, Tingjie and Liang, Hai-Ning}, year={2025}, month=mar, pages={238–248} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\No More Head-Turning Exploring Passthrough Techniques for.png",
     "video": null
   },
   {
@@ -2996,10 +2985,10 @@
     "authors": "Jingjing Zhang, Xiyao Jin, Han Tu, Hai-Ning Liang, Zhuying Li and Xin Tong",
     "venue": "IEEE Transactions on Visualization and Computer Graphics",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\One_Body_but_Four_Hands_Exploring_the_Role_of_Virtual_Hands_in_Virtual_Co-embodiment.pdf",
     "doi": "10.1109/tvcg.2025.3549883",
     "bibtex": " @article{Zhang_2025, title={“One Body, but Four Hands”: Exploring the Role of Virtual Hands in Virtual Co-embodiment}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2025.3549883}, DOI={10.1109/tvcg.2025.3549883}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang, Jingjing and Jin, Xiyao and Tu, Han and Liang, Hai-Ning and Li, Zhuying and Tong, Xin}, year={2025}, pages={1–11} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\One Body, But Four Hands Exploring the Role of Virtual Hands in.png",
     "video": null
   },
   {
@@ -3007,10 +2996,10 @@
     "authors": "Mengqi Jiang, Vijayakumar Nanjappan, Ziming Li, Zhen Wu, Ziqian Bai and Hai-Ning Liang",
     "venue": "International Journal of Human-Computer Studies",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\iPillowPal Exploring affective gesture-based interactive textile design for long-distance relationship couples.pdf",
     "doi": "10.1016/j.ijhcs.2025.103466",
     "bibtex": " @article{Jiang_2025, title={iPillowPal: Exploring affective gesture-based interactive textile design for long-distance relationship couples}, volume={199}, ISSN={1071-5819}, url={http://dx.doi.org/10.1016/j.ijhcs.2025.103466}, DOI={10.1016/j.ijhcs.2025.103466}, journal={International Journal of Human-Computer Studies}, publisher={Elsevier BV}, author={Jiang, Mengqi and Nanjappan, Vijayakumar and Li, Ziming and Wu, Zhen and Bai, Ziqian and Liang, Hai-Ning}, year={2025}, month=may, pages={103466} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\iPillowPalExploring affective gesture-based interactive textile design for long-distance relationship couples.png",
     "video": null
   },
   {
@@ -3018,10 +3007,10 @@
     "authors": "Haonan Yao, Lixiang Zhao, Boyuan Chen, Kaiwen Li, Hai-Ning Liang and Lingyun Yu",
     "venue": "Journal of Visualization",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\3DStoryline immersive visual storytelling.pdf",
     "doi": "10.1007/s12650-025-01058-5",
     "bibtex": " @article{Yao_2025, title={3DStoryline: immersive visual storytelling}, ISSN={1875-8975}, url={http://dx.doi.org/10.1007/s12650-025-01058-5}, DOI={10.1007/s12650-025-01058-5}, journal={Journal of Visualization}, publisher={Springer Science and Business Media LLC}, author={Yao, Haonan and Zhao, Lixiang and Chen, Boyuan and Li, Kaiwen and Liang, Hai-Ning and Yu, Lingyun}, year={2025}, month=mar }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\3DStoryline Immersive Visual Storytelling.png",
     "video": null
   },
   {
@@ -3029,10 +3018,10 @@
     "authors": "Xuning Hu, Wenxuan Xu, Yushi Wei, Hao Zhang, Jin Huang and Hai-Ning Liang",
     "venue": "2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\Optimizing_Moving_Target_Selection_in_VR_by_Integrating_Proximity-Based_Feedback_Types_and_Modalities.pdf",
     "doi": "10.1109/vr59515.2025.00030",
     "bibtex": " @inproceedings{Hu_2025, title={Optimizing Moving Target Selection in VR by Integrating Proximity-Based Feedback Types and Modalities}, url={http://dx.doi.org/10.1109/vr59515.2025.00030}, DOI={10.1109/vr59515.2025.00030}, booktitle={2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, publisher={IEEE}, author={Hu, Xuning and Xu, Wenxuan and Wei, Yushi and Zhang, Hao and Huang, Jin and Liang, Hai-Ning}, year={2025}, month=mar, pages={52–62} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Optimizing Moving Target Selection in VR by Integrating Proximity-Based.png",
     "video": null
   },
   {
@@ -3040,10 +3029,10 @@
     "authors": "Xueqi Wang, Yue Li, Boge Ling, Han-Mei Chen and Hai-Ning Liang",
     "venue": "IEEE Transactions on Visualization and Computer Graphics",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\ResponsiveView_Enhancing_3D_Artifact_Viewing_Experience_in_VR_Museums.pdf",
     "doi": "10.1109/tvcg.2025.3549872",
     "bibtex": " @article{Wang_2025, title={ResponsiveView: Enhancing 3D Artifact Viewing Experience in VR Museums}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2025.3549872}, DOI={10.1109/tvcg.2025.3549872}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wang, Xueqi and Li, Yue and Ling, Boge and Chen, Han-Mei and Liang, Hai-Ning}, year={2025}, pages={1–10} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\ResponsiveViewEnhancing 3D Artifact Viewing Experience in VR.png",
     "video": null
   },
   {
@@ -3051,10 +3040,10 @@
     "authors": "Wenxuan Xu, Yushi Wei, Xuning Hu, Wolfgang Stuerzlinger, Yuntao Wang and Hai-Ning Liang",
     "venue": "2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\Predicting_Ray_Pointer_Landing_Poses_in_VR_Using_Multimodal_LSTM-Based_Neural_Networks.pdf",
     "doi": "10.1109/vr59515.2025.00034",
     "bibtex": " @inproceedings{Xu_2025, title={Predicting Ray Pointer Landing Poses in VR Using Multimodal LSTM-Based Neural Networks}, url={http://dx.doi.org/10.1109/vr59515.2025.00034}, DOI={10.1109/vr59515.2025.00034}, booktitle={2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, publisher={IEEE}, author={Xu, Wenxuan and Wei, Yushi and Hu, Xuning and Stuerzlinger, Wolfgang and Wang, Yuntao and Liang, Hai-Ning}, year={2025}, month=mar, pages={93–103} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Predicting Ray Pointer Landing Poses in VR Using Multimodal.png",
     "video": null
   },
   {
@@ -3062,10 +3051,10 @@
     "authors": "Likun Zhang, Sicheng Yang, Zhuo Wang, Hai-Ning Liang and Junxiao Shen",
     "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\AutoMR A Universal Time Series Motion Recognition Pipeline.pdf",
     "doi": "10.1109/tcsvt.2015.2502839",
     "bibtex": " @article{Barrett_2016, title={Action Recognition by Time Series of Retinotopic Appearance and Motion Features}, volume={26}, ISSN={1558-2205}, url={http://dx.doi.org/10.1109/tcsvt.2015.2502839}, DOI={10.1109/tcsvt.2015.2502839}, number={12}, journal={IEEE Transactions on Circuits and Systems for Video Technology}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Barrett, Daniel Paul and Siskind, Jeffrey Mark}, year={2016}, month=dec, pages={2250–2263} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\AutoMRA Universal Time Series Motion Recognition Pipeline.png",
     "video": null
   },
   {
@@ -3073,7 +3062,7 @@
     "authors": "Boxuan Zhu, Sicheng Yang, Zhuo Wang, Hai-Ning Liang and Junxiao Shen",
     "venue": "International Journal of Creative Interfaces and Computer Graphics",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\Duo Streamers A Streaming Gesture Recognition Framework.pdf",
     "doi": "10.4018/ijcicg.2016070102",
     "bibtex": " @article{Baltazar_2016, title={ZatLab Gesture Recognition Framework: Machine Learning Results}, volume={7}, ISSN={1947-3125}, url={http://dx.doi.org/10.4018/ijcicg.2016070102}, DOI={10.4018/ijcicg.2016070102}, number={2}, journal={International Journal of Creative Interfaces and Computer Graphics}, publisher={IGI Global}, author={Baltazar, André}, year={2016}, month=jul, pages={11–24} }\n",
     "picture": "..\\..\\images\\Publication\\DuoStreamersAStreamingGestureRecognitionFramework.png",
@@ -3084,10 +3073,10 @@
     "authors": "Jiawei Guo, Jieming Ma, Feiyang Sun, Zhiqiang Gao, Ángel F García-Fernández, Hai-Ning Liang, Xiaohui Zhu and Weiping Ding",
     "venue": "Information Fusion",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\CD-UDepth Complementary dual-source information fusion for underwater monocular depth estimation.pdf",
     "doi": "10.1016/j.inffus.2025.102961",
     "bibtex": " @article{Guo_2025, title={CD-UDepth: Complementary dual-source information fusion for underwater monocular depth estimation}, volume={118}, ISSN={1566-2535}, url={http://dx.doi.org/10.1016/j.inffus.2025.102961}, DOI={10.1016/j.inffus.2025.102961}, journal={Information Fusion}, publisher={Elsevier BV}, author={Guo, Jiawei and Ma, Jieming and Sun, Feiyang and Gao, Zhiqiang and García-Fernández, Ángel F. and Liang, Hai-Ning and Zhu, Xiaohui and Ding, Weiping}, year={2025}, month=jun, pages={102961} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\CD-UDepth Complementary dual-source information fusion for underwater monocular depth estimation.png",
     "video": null
   },
   {
@@ -3095,10 +3084,10 @@
     "authors": "Vibhav Chitale, Julie D Henry, Hai-Ning Liang, Ben Matthews and Nilufar Baghaei",
     "venue": "New Ideas in Psychology",
     "year": 2025,
-    "pdf": null,
+    "pdf": "..\\..\\downloads\\publication\\Virtual reality analytics map (VRAM) A conceptual framework for.pdf",
     "doi": "10.1016/j.newideapsych.2024.101127",
     "bibtex": " @article{Chitale_2025, title={Virtual reality analytics map (VRAM): A conceptual framework for detecting mental disorders using virtual reality data}, volume={76}, ISSN={0732-118X}, url={http://dx.doi.org/10.1016/j.newideapsych.2024.101127}, DOI={10.1016/j.newideapsych.2024.101127}, journal={New Ideas in Psychology}, publisher={Elsevier BV}, author={Chitale, Vibhav and Henry, Julie D. and Liang, Hai-Ning and Matthews, Ben and Baghaei, Nilufar}, year={2025}, month=jan, pages={101127} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Virtual reality analytics map (VRAM)A conceptual framework for detecting mental disorders using virtual reality data.png",
     "video": null
   },
   {
@@ -3109,7 +3098,7 @@
     "pdf": null,
     "doi": "10.1145/3680533.3697068",
     "bibtex": " @inproceedings{Jiang_2024, series={SA ’24}, title={ChemistryVR: Enhancing Educational Experiences through Virtual Chemistry Lab Simulations}, url={http://dx.doi.org/10.1145/3680533.3697068}, DOI={10.1145/3680533.3697068}, booktitle={SIGGRAPH Asia 2024 Educator’s Forum}, publisher={ACM}, author={Jiang, Guanxuan and Xia, Xuansheng and Li, Yue and Liang, Hai-Ning and Hui, Pan}, year={2024}, month=nov, pages={1–5}, collection={SA ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\ChemistryVR Enhancing Educational Experiences through Virtual Chemistry Lab Simulations.png",
     "video": null
   },
   {
@@ -3120,7 +3109,7 @@
     "pdf": null,
     "doi": "10.21203/rs.3.rs-5405763/v1",
     "bibtex": " @article{Li_2024, title={A Comprehensive Survey of Specularity Detection: State-of-the-Art Techniques and Breakthroughs}, url={http://dx.doi.org/10.21203/rs.3.rs-5405763/v1}, DOI={10.21203/rs.3.rs-5405763/v1}, publisher={Springer Science and Business Media LLC}, author={Li, Fengze and Ma, Jieming and Liang, Hai-Ning and Tian, Zhongbei and Wu, Zhijing and Wen, Tianxi and Liu, Dawei}, year={2024}, month=nov }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\A Comprehensive Survey of Specularity Detection.png",
     "video": null
   },
   {
@@ -3131,7 +3120,7 @@
     "pdf": null,
     "doi": "10.1109/ismar62088.2024.00078",
     "bibtex": " @inproceedings{Liu_2024, title={User-Defined Gesture Interactions for VR Museums: An Elicitation Study}, url={http://dx.doi.org/10.1109/ismar62088.2024.00078}, DOI={10.1109/ismar62088.2024.00078}, booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}, publisher={IEEE}, author={Liu, Qianru and Li, Yue and Chen, Bingqing and Wu, Huiyue and Liang, Hai-Ning}, year={2024}, month=oct, pages={633–642} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\User-Defined Gesture Interactions for VR MuseumsAn Elicitation Study.png",
     "video": null
   },
   {
@@ -3142,7 +3131,7 @@
     "pdf": null,
     "doi": "10.1016/j.heliyon.2024.e38410",
     "bibtex": " @article{Li_2024, title={HI-Net: A novel histopathologic image segmentation model for metastatic breast cancer via lightweight dataset construction}, volume={10}, ISSN={2405-8440}, url={http://dx.doi.org/10.1016/j.heliyon.2024.e38410}, DOI={10.1016/j.heliyon.2024.e38410}, number={19}, journal={Heliyon}, publisher={Elsevier BV}, author={Li, Fengze and Ma, Jieming and Wen, Tianxi and Tian, Zhongbei and Liang, Hai-Ning}, year={2024}, month=oct, pages={e38410} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\HI-NetAnovel histopathologic image segmentation model for.png",
     "video": null
   },
   {
@@ -3153,7 +3142,7 @@
     "pdf": null,
     "doi": "10.3389/frvir.2024.1230885",
     "bibtex": " @article{Luo_2024, title={Visual augmentation of live-streaming images in virtual reality to enhance teleoperation of unmanned ground vehicles}, volume={5}, ISSN={2673-4192}, url={http://dx.doi.org/10.3389/frvir.2024.1230885}, DOI={10.3389/frvir.2024.1230885}, journal={Frontiers in Virtual Reality}, publisher={Frontiers Media SA}, author={Luo, Yiming and Wang, Jialin and Pan, Yushan and Luo, Shan and Irani, Pourang and Liang, Hai-Ning}, year={2024}, month=oct }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Visual augmentation of live-streaming images in virtual reality to enhance teleoperation of unmanned ground vehicles.png",
     "video": null
   },
   {
@@ -3164,7 +3153,7 @@
     "pdf": null,
     "doi": "10.1109/tvcg.2024.3451491",
     "bibtex": " @article{Wei_2024, title={Evaluating and Modeling the Effect of Frame Rate on Steering Performance in Virtual Reality}, ISSN={2160-9306}, url={http://dx.doi.org/10.1109/tvcg.2024.3451491}, DOI={10.1109/tvcg.2024.3451491}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wei, Yushi and Shi, Rongkai and Batmaz, Anil Ufuk and Li, Yue and Huang, Mengjie and Yang, Rui and Liang, Hai-Ning}, year={2024}, pages={1–14} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Evaluating and Modeling the Effect of Frame Rate on Steering.png",
     "video": null
   },
   {
@@ -3175,7 +3164,7 @@
     "pdf": null,
     "doi": "10.1007/s12193-024-00438-9",
     "bibtex": " @article{Zhao_2024, title={AirWhisper: enhancing virtual reality experience via visual-airflow multimodal feedback}, ISSN={1783-8738}, url={http://dx.doi.org/10.1007/s12193-024-00438-9}, DOI={10.1007/s12193-024-00438-9}, journal={Journal on Multimodal User Interfaces}, publisher={Springer Science and Business Media LLC}, author={Zhao, Fangtao and Li, Ziming and Luo, Yiming and Li, Yue and Liang, Hai-Ning}, year={2024}, month=aug }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\AirWhisper enhancing virtual reality experience via visual-airflow multimodal feedback.png",
     "video": null
   },
   {
@@ -3186,18 +3175,7 @@
     "pdf": null,
     "doi": "10.1007/s00779-024-01813-9",
     "bibtex": " @article{Li_2024, title={Correction to: Feasibility and performance enhancement of collaborative control of unmanned ground vehicles via virtual reality}, volume={28}, ISSN={1617-4917}, url={http://dx.doi.org/10.1007/s00779-024-01813-9}, DOI={10.1007/s00779-024-01813-9}, number={3–4}, journal={Personal and Ubiquitous Computing}, publisher={Springer Science and Business Media LLC}, author={Li, Ziming and Luo, Yiming and Wang, Jialin and Pan, Yushan and Yu, Lingyun and Liang, Hai-Ning}, year={2024}, month=may, pages={597–597} }\n",
-    "picture": null,
-    "video": null
-  },
-  {
-    "title": "Special issue on technologies and applications for ubiquitous interactive media",
-    "authors": "Fotis Liarokapis, Sebastian von Mammen and Hai-Ning Liang",
-    "venue": "Personal and Ubiquitous Computing",
-    "year": 2024,
-    "pdf": null,
-    "doi": "10.1007/s00779-024-01828-2",
-    "bibtex": " @article{Liarokapis_2024, title={Special issue on technologies and applications for ubiquitous interactive media}, volume={28}, ISSN={1617-4917}, url={http://dx.doi.org/10.1007/s00779-024-01828-2}, DOI={10.1007/s00779-024-01828-2}, number={3–4}, journal={Personal and Ubiquitous Computing}, publisher={Springer Science and Business Media LLC}, author={Liarokapis, Fotis and von Mammen, Sebastian and Liang, Hai-Ning}, year={2024}, month=aug, pages={447–448} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Feasibility and performance enhancement of collaborative control.png",
     "video": null
   },
   {
@@ -3208,7 +3186,7 @@
     "pdf": null,
     "doi": "10.1089/g4h.2023.0174",
     "bibtex": " @article{Baghaei_2024, title={Understanding the Relationship Between User Game Preferences and Depressive Symptoms: A Pilot Study}, volume={13}, ISSN={2161-7856}, url={http://dx.doi.org/10.1089/g4h.2023.0174}, DOI={10.1089/g4h.2023.0174}, number={4}, journal={Games for Health Journal}, publisher={Mary Ann Liebert Inc}, author={Baghaei, Nilufar and Abdulkhalek, Sarah and Moat, Kaitlin and Xu, Wenge and Liang, Hai-Ning}, year={2024}, month=aug, pages={297–304} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Understanding the Relationship Between User Game Preferences and Depressive Symptoms A Pilot Study.png",
     "video": null
   },
   {
@@ -3219,7 +3197,7 @@
     "pdf": null,
     "doi": "10.1109/icscc62041.2024.10690613",
     "bibtex": " @inproceedings{Qin_2024, title={Data-Driven Recommendation in Brain-Metaverse Interaction}, url={http://dx.doi.org/10.1109/icscc62041.2024.10690613}, DOI={10.1109/icscc62041.2024.10690613}, booktitle={2024 10th International Conference on Smart Computing and Communication (ICSCC)}, publisher={IEEE}, author={Qin, Zihui and Cao, Yilin and Park, Jeongyeong and Liu, Qianru and Xu, Zhuohui and Jin, Nanlin and Liang, Hai-Ning}, year={2024}, month=jul, pages={343–348} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Data-driven Recommendation in Brain-Metaverse.png",
     "video": null
   },
   {
@@ -3229,8 +3207,8 @@
     "year": 2024,
     "pdf": null,
     "doi": "10.1080/10447318.2024.2375700",
-    "bibtex": " @article{Li_2024, title={Examining the Use of\n            DanMu\n            for Crowdsourcing Control in Virtual Gatherings}, ISSN={1532-7590}, url={http://dx.doi.org/10.1080/10447318.2024.2375700}, DOI={10.1080/10447318.2024.2375700}, journal={International Journal of Human–Computer Interaction}, publisher={Informa UK Limited}, author={Li, Yue and Ma, Teng and Li, Ziming and Liang, Hai-Ning}, year={2024}, month=jul, pages={1–19} }\n",
-    "picture": null,
+    "bibtex": " @article{Li_2024, title={Examining the Use of DanMu for Crowdsourcing Control in Virtual Gatherings}, ISSN={1532-7590}, url={http://dx.doi.org/10.1080/10447318.2024.2375700}, DOI={10.1080/10447318.2024.2375700}, journal={International Journal of Human–Computer Interaction}, publisher={Informa UK Limited}, author={Li, Yue and Ma, Teng and Li, Ziming and Liang, Hai-Ning}, year={2024}, month=jul, pages={1–19} }\n",
+    "picture": "..\\..\\images\\Publication\\Examining the Use of DanMu for Crowdsourcing Control in Virtual Gatherings.png",
     "video": null
   },
   {
@@ -3241,7 +3219,7 @@
     "pdf": null,
     "doi": "10.1007/978-3-031-60913-8_7",
     "bibtex": " @inbook{Yu_2024, title={Rethinking Defaults: Examining the Effects of Default Camera Height and Angle on Embodied Presence in Cinematic Virtual Reality}, ISBN={9783031609138}, ISSN={1611-3349}, url={http://dx.doi.org/10.1007/978-3-031-60913-8_7}, DOI={10.1007/978-3-031-60913-8_7}, booktitle={Cross-Cultural Design}, publisher={Springer Nature Switzerland}, author={Yu, Zhiyuan and Lo, Cheng-Hung and Yang, Ganlin and Liang, Hai-Ning}, year={2024}, pages={86–96} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Rethinking DefaultsExamining the Effects of Default Camera Height and Angle on Embodied Presence in Cinematic Virtual Reality.png",
     "video": null
   },
   {
@@ -3252,7 +3230,7 @@
     "pdf": null,
     "doi": "10.1145/3613905.3650777",
     "bibtex": " @inproceedings{Yao_2024, series={CHI ’24}, title={Exploring Embodied Asymmetric Two-Handed Interactions for Immersive Data Exploration}, url={http://dx.doi.org/10.1145/3613905.3650777}, DOI={10.1145/3613905.3650777}, booktitle={Extended Abstracts of the CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Yao, Haonan and Zhao, Lixiang and Liang, Hai-Ning and Liu, Yu and Li, Yue and Yu, Lingyun}, year={2024}, month=may, pages={1–10}, collection={CHI ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploring Embodied Asymmetric Two-Handed Interactions for.png",
     "video": null
   },
   {
@@ -3263,7 +3241,7 @@
     "pdf": null,
     "doi": "10.1145/3613905.3650925",
     "bibtex": " @inproceedings{Zhang_2024, series={CHI ’24}, title={Designing Stick-Based Extended Reality Controllers: A Participatory Approach}, url={http://dx.doi.org/10.1145/3613905.3650925}, DOI={10.1145/3613905.3650925}, booktitle={Extended Abstracts of the CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Zhang, Yaying and Shi, Rongkai and Liang, Hai-Ning}, year={2024}, month=may, pages={1–6}, collection={CHI ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Designing Stick-Based Extended Reality Controllers.png",
     "video": null
   },
   {
@@ -3274,7 +3252,7 @@
     "pdf": null,
     "doi": "10.1109/vr58804.2024.00047",
     "bibtex": " @inproceedings{Song_2024, title={Exploring Controller-based Techniques for Precise and Rapid Text Selection in Virtual Reality}, url={http://dx.doi.org/10.1109/vr58804.2024.00047}, DOI={10.1109/vr58804.2024.00047}, booktitle={2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, publisher={IEEE}, author={Song, Jianbin and Shi, Rongkai and Li, Yue and Gao, BoYu and Liang, Hai-Ning}, year={2024}, month=mar, pages={244–253} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Exploring Controller-based Techniques for Precise and Rapid Text.png",
     "video": null
   },
   {
@@ -3285,7 +3263,7 @@
     "pdf": null,
     "doi": "10.1145/3374920.3374963",
     "bibtex": " @inproceedings{Rossmy_2020, series={TEI ’20}, title={Metaphors and Technologies for New Tangible User Interfaces}, url={http://dx.doi.org/10.1145/3374920.3374963}, DOI={10.1145/3374920.3374963}, booktitle={Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction}, publisher={ACM}, author={Rossmy, Beat}, year={2020}, month=feb, pages={925–929}, collection={TEI ’20} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\Tangible ProgressEmploying Visual Metaphors and Physical.png",
     "video": null
   },
   {
@@ -3450,7 +3428,7 @@
     "pdf": null,
     "doi": "10.1145/3680533.3697068",
     "bibtex": " @inproceedings{Jiang_2024, series={SA ’24}, title={ChemistryVR: Enhancing Educational Experiences through Virtual Chemistry Lab Simulations}, url={http://dx.doi.org/10.1145/3680533.3697068}, DOI={10.1145/3680533.3697068}, booktitle={SIGGRAPH Asia 2024 Educator’s Forum}, publisher={ACM}, author={Jiang, Guanxuan and Xia, Xuansheng and Li, Yue and Liang, Hai-Ning and Hui, Pan}, year={2024}, month=nov, pages={1–5}, collection={SA ’24} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\ChemistryVR Enhancing Educational Experiences through.png",
     "video": null
   },
   {
@@ -3758,7 +3736,7 @@
     "pdf": null,
     "doi": "10.2139/ssrn.4361223",
     "bibtex": " @article{Zhu_2023, title={From Reader to Experiencer: Design and Evaluation of an Interactive Vr Story for Promoting the Situation Awareness of Public Health Threats}, url={http://dx.doi.org/10.2139/ssrn.4361223}, DOI={10.2139/ssrn.4361223}, publisher={Elsevier BV}, author={Zhu, Qian and Yuan, Linping and Xu, Zian and Yang, Leni and Xia, Meng and Wang, Zhuo and Liang, Hai-Ning and Ma, Xiaojuan}, year={2023} }\n",
-    "picture": null,
+    "picture": "..\\..\\images\\Publication\\FromreadertoexperiencerDesignandevaluationofaVRdatastoryfor.png",
     "video": null
   },
   {

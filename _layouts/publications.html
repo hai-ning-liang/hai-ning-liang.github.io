@@ -90,6 +90,44 @@ layout: default
     padding: 20px 0;
     border-top: 1px solid  #ddd;; /* 设置黑色的上划线 */
   }
+  .modal {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  font-family: monospace;
+  position: relative;
+}
+
+.close {
+  color: #aaa;
+  position: absolute;
+  right: 20px;
+  top: 15px;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+}
 </style>
 
 
@@ -138,8 +176,17 @@ layout: default
                     <a href="https://doi.org/{{ pub.doi }}" class="pub-link" target="_blank">DOI</a>
                   {% endif %}
                   {% if pub.bibtex %}
-                    <a href="javascript:void(0);" class="pub-link" onclick="alert(`{{ pub.bibtex | escape }}`)">BibTeX</a>
-                  {% endif %}
+                  <a href="javascript:void(0);" class="pub-link" onclick="showBibtex(`{{ pub.bibtex | escape | e('js') }}`)">BibTeX</a>
+                  <!-- BibTeX 模态窗口 -->
+                  <div id="bibtexModal" class="modal" style="display: none;">
+                    <div class="modal-content">
+                      <span class="close" onclick="closeBibtexModal()">&times;</span>
+                      <h3 style="font-family: 'Helvetica', 'Arial', sans-serif;">BibTeX Entry</h3>
+                      <pre id="bibtexContent" style="white-space: pre-wrap;"></pre>
+                      <button class="year-button" onclick="copyBibtex()">Copy to Clipboard</button>
+                    </div>
+                  </div>
+                {% endif %}
                   {% if pub.video %}
                     <a href="{{ pub.video }}" class="pub-link" target="_blank">Video</a>
                   {% endif %}
@@ -203,4 +250,20 @@ layout: default
       this.classList.add('active');
     });
   });
+
+  function showBibtex(bibtex) {
+  document.getElementById('bibtexContent').innerText = bibtex;
+  document.getElementById('bibtexModal').style.display = 'block';
+}
+
+function closeBibtexModal() {
+  document.getElementById('bibtexModal').style.display = 'none';
+}
+
+function copyBibtex() {
+  const text = document.getElementById('bibtexContent').innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    alert('BibTeX copied to clipboard!');
+  });
+}
 </script>
