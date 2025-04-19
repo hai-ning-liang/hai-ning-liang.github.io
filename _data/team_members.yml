@@ -1,5 +1,5 @@
 - name: Hai-Ning Liang
-  photo: Milan1.jpg
+  photo: Hai-Ning.jpg
   info: Associate professor
   email: hainingliang@hkust-gz.edu.cn
   number_educ: 2
@@ -7,34 +7,34 @@
   education2: PhD in Computer Science from the Western University
 
 - name: <a href="https://rongkaishi.github.io/">Rongkai Shi</a>
-  photo: Jiasen.png
+  photo: rongkai.jpg
   info: Postdoc, started Nov 2024
   email: rongkaishi@hkust-gz.edu.cn
   number_educ: 0
 
 
 - name: Jialin Wang
-  photo: Sato.jpeg
-  info: Postdoc, started Feb 2025
+  photo: jialin.jpg
+  info: Postdoc, started Mar 2025
   email: jialinwang@hkust-gz.edu.cn
   number_educ: 0
 
 
 - name: Yushi Wei
-  photo: Amber.png
+  photo: yushi.jpg
   info: PhD Student, started Sep 2024
   email: b
   number_educ: 0
 
 
 - name: Ziming Li
-  photo: Amber.png
+  photo: ziming.png
   info: PhD Student, started Sep 2024
   email: b
   number_educ: 0
 
 - name: Hongji Li
-  photo: Amber.png
+  photo: hongji.png
   info: PhD Student, started Sep 2024
   email: b
   number_educ: 0

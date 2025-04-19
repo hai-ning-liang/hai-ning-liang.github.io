@@ -2,47 +2,76 @@
   photo: rock.jpg
   info: 12/2024 - now
   email: b
-  number_educ: 0
-  education1: xxx
+  number_educ: 1
+  education1: MPhil Student
 
 - name: Huayuan Chen
   photo: rock.jpg
   info: 12/2024 - now
   email: b
-  number_educ: 0
-  education1: xxx
+  number_educ: 1
+  education1: MPhil Student
 
 - name: Yi Gao
   photo: rock.jpg
   info: 12/2024 - now
   email: b
-  number_educ: 0
-  education1: xxx
+  number_educ: 1
+  education1: MPhil Student
 
 - name: Jiarui Xie
   photo: rock.jpg
   info: 12/2024 - now
   email: b
-  number_educ: 0
-  education1: xxx
+  number_educ: 1
+  education1: MPhil Student
 
 - name: Hongxi Chen
   photo: rock.jpg
   info: 12/2024 - now
   email: b
-  number_educ: 0
-  education1: xxx
+  number_educ: 1
+  education1: MPhil Student
 
 - name: Chen Xie
   photo: rock.jpg
   info: 12/2024 - now
   email: b
-  number_educ: 0
-  education1: xxx
+  number_educ: 1
+  education1: MPhil Student
 
 - name: Han Xu
   photo: rock.jpg
   info: 09/2024 - now
   email: b
-  number_educ: 0
-  education1: xxx
+  number_educ: 1
+  education1: MPhil Student
+
+
+- name: Xuning Hu
+  photo: XuningHu.jpg
+  info: 09/2024 - now
+  email: b
+  number_educ: 1
+  education1: Research Assistant
+
+- name: Dechao Wang
+  photo: rock.jpg
+  info: 12/2024 - now
+  email: b
+  number_educ: 1
+  education1: Research Assistant
+
+- name: Zihong He
+  photo: rock.jpg
+  info: 02/2025 - now
+  email: b
+  number_educ: 1
+  education1: Research Assistant
+
+- name: Songchen Zhou
+  photo: rock.jpg
+  info: 03/2025 - now
+  email: b
+  number_educ: 1
+  education1: Research Assistant
