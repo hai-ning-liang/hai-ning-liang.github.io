@@ -1,5 +1,5 @@
 ---
-title: "FIT Lab - Publications"
+title: "FIT-AWE Lab - Publications"
 layout: publications
 permalink: /publications/
 ---

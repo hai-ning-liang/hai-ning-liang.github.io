@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "FIT Lab at Leiden University."
+excerpt: "FIT-AWE Lab at HKUST(GZ)."
 sitemap: false
 permalink: /allnews.html
 ---

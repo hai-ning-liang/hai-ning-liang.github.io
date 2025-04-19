@@ -1,7 +1,7 @@
 ---
-title: "FIT Lab - Team"
+title: "FIT-AWE Lab - Team"
 layout: gridlay
-excerpt: "FIT Lab: Team members"
+excerpt: "FIT-AWE Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
