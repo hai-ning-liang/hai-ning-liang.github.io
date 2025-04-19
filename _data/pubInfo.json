@@ -2948,17 +2948,6 @@
     "video": null
   },
   {
-    "title": "VisualCodeMOOC: A course platform for algorithms and data structures integrating a conversational agent for enhanced learning through dynamic visualizations",
-    "authors": "Mingyuan Li, Duan Wang, Erick Purwanto, Thomas Selig, Qing Zhang and Hai-Ning Liang",
-    "venue": "SoftwareX",
-    "year": 2025,
-    "pdf": "..\\..\\downloads\\publication\\VisualCodeMOOC A course platform for algorithms and data structures.pdf",
-    "doi": "10.1016/j.softx.2025.102072",
-    "bibtex": " @article{Li_2025, title={VisualCodeMOOC: A course platform for algorithms and data structures integrating a conversational agent for enhanced learning through dynamic visualizations}, volume={30}, ISSN={2352-7110}, url={http://dx.doi.org/10.1016/j.softx.2025.102072}, DOI={10.1016/j.softx.2025.102072}, journal={SoftwareX}, publisher={Elsevier BV}, author={Li, Mingyuan and Wang, Duan and Purwanto, Erick and Selig, Thomas and Zhang, Qing and Liang, Hai-Ning}, year={2025}, month=may, pages={102072} }\n",
-    "picture": "..\\..\\images\\Publication\\VisualCodeMOOC.png",
-    "video": null
-  },
-  {
     "title": "Learning from neuroscience: integrating users in design processes using brain imaging tools and virtual reality",
     "authors": "Fatemeh Taherysayah, Claudia Westermann and Hai-Ning Liang",
     "venue": "Intelligent Buildings International",
@@ -3044,6 +3033,17 @@
     "doi": "10.1109/vr59515.2025.00034",
     "bibtex": " @inproceedings{Xu_2025, title={Predicting Ray Pointer Landing Poses in VR Using Multimodal LSTM-Based Neural Networks}, url={http://dx.doi.org/10.1109/vr59515.2025.00034}, DOI={10.1109/vr59515.2025.00034}, booktitle={2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, publisher={IEEE}, author={Xu, Wenxuan and Wei, Yushi and Hu, Xuning and Stuerzlinger, Wolfgang and Wang, Yuntao and Liang, Hai-Ning}, year={2025}, month=mar, pages={93–103} }\n",
     "picture": "..\\..\\images\\Publication\\Predicting Ray Pointer Landing Poses in VR Using Multimodal.png",
+    "video": null
+  },
+  {
+    "title": "VisualCodeMOOC: A course platform for algorithms and data structures integrating a conversational agent for enhanced learning through dynamic visualizations",
+    "authors": "Mingyuan Li, Duan Wang, Erick Purwanto, Thomas Selig, Qing Zhang and Hai-Ning Liang",
+    "venue": "SoftwareX",
+    "year": 2025,
+    "pdf": "..\\..\\downloads\\publication\\VisualCodeMOOC A course platform for algorithms and data structures.pdf",
+    "doi": "10.1016/j.softx.2025.102072",
+    "bibtex": " @article{Li_2025, title={VisualCodeMOOC: A course platform for algorithms and data structures integrating a conversational agent for enhanced learning through dynamic visualizations}, volume={30}, ISSN={2352-7110}, url={http://dx.doi.org/10.1016/j.softx.2025.102072}, DOI={10.1016/j.softx.2025.102072}, journal={SoftwareX}, publisher={Elsevier BV}, author={Li, Mingyuan and Wang, Duan and Purwanto, Erick and Selig, Thomas and Zhang, Qing and Liang, Hai-Ning}, year={2025}, month=may, pages={102072} }\n",
+    "picture": "..\\..\\images\\Publication\\VisualCodeMOOC.png",
     "video": null
   },
   {
