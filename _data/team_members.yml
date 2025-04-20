@@ -42,7 +42,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: 
   email: hainingliang@hkust-gz.edu.cn
   number_educ: 0
   education1:
